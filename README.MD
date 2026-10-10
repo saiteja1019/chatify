@@ -19,6 +19,7 @@ Highlights:
 - 🚀 Easy Deployment (free-tier friendly with Sevalla)
 
 ---
+Everything is Done from Scratch 
 
 ## 🧪 .env Setup
 
@@ -63,3 +64,4 @@ cd frontend
 npm install
 npm run dev
 ```
+
